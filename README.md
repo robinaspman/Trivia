@@ -1,4 +1,4 @@
-Trivia app shows and requests data from a json url.
+Trivia app that shows and requests data from a json url.
 
 <br>
 
